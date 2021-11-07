@@ -8,6 +8,4 @@ const fetchData = () => {
         })
 }
 
-console.log(fetchData())
-
 exports.fetchData = fetchData
